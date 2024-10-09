@@ -1,14 +1,14 @@
 # Problem Statement
 
-    General Assembly Academy is planning to launch a new institution focused on standardized test preparation, specifically the ACT and SAT. The goal is to identify the best states to establish the institution and determine which subjects should be included in an intensive program.
+General Assembly Academy is planning to launch a new institution focused on standardized test preparation, specifically the ACT and SAT. The goal is to identify the best states to establish the institution and determine which subjects should be included in an intensive program.
 
 # Background
 
-    The ACT is a standardized test that consists of four main sections: English, Math, Reading, and Science. Each section is scored on a scale of 1 to 36, and the composite score, which represents each tester, is the average of the four section scores, rounded to the nearest whole number. The maximum composite score is 36. Additionally, there is an optional Writing section, which is scored separately on a scale of 2 to 12.
+The ACT is a standardized test that consists of four main sections: English, Math, Reading, and Science. Each section is scored on a scale of 1 to 36, and the composite score, which represents each tester, is the average of the four section scores, rounded to the nearest whole number. The maximum composite score is 36. Additionally, there is an optional Writing section, which is scored separately on a scale of 2 to 12.
 
-    In contrary, the SAT is a standardized test that consists of three main sections: Evidence-Based Reading and Writing, and Math. Each section has a maximum score of 800, making the total maximum score 1600. The score representing each tester is called the total score, which is the sum of the scores from the Evidence-Based Reading and Writing section and the Math section. There is an optional Essay section, which is scored separately on a scale of 2 to 8.
+In contrary, the SAT is a standardized test that consists of three main sections: Evidence-Based Reading and Writing, and Math. Each section has a maximum score of 800, making the total maximum score 1600. The score representing each tester is called the total score, which is the sum of the scores from the Evidence-Based Reading and Writing section and the Math section. There is an optional Essay section, which is scored separately on a scale of 2 to 8.
 
-    In the U.S., different states tend to favor either the ACT or the SAT based on their educational policies; however, students from specific states have the flexibility to choose their preferred test.
+In the U.S., different states tend to favor either the ACT or the SAT based on their educational policies; however, students from specific states have the flexibility to choose their preferred test.
 
 # Datasets
 
