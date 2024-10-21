@@ -1,6 +1,6 @@
 # Problem Statement
 
-General Assembly Academy is planning to launch a new institution focused on standardized test preparation, specifically the ACT and SAT. The goal is to identify the best states to establish the institution and determine which subjects should be included in an intensive program.
+General Assembly Academy is planning to launch a new learning center focused on standardized test preparation, specifically the ACT and SAT. The goal is to identify the best states to establish the institution and determine which subjects should be included in an intensive program.
 
 # Background
 
@@ -32,7 +32,7 @@ pandas, numpy, matplotlib.pyplot, matplotlib.patches, seaborn, math
 
 ## Methodology
 
-- The ideal states for establishing the institution should have many students taking both the ACT and SAT. This can be determined by examining the participation rates of both tests, using the median as a guide. If the participation rates for both tests are greater than the median, then those states are considered ideal.
+- The ideal states for establishing the new learning center should have many students taking both the ACT and SAT. This can be determined by examining the participation rates of both tests, using the median as a guide. If the participation rates for both tests are greater than the median, then those states are considered ideal.
 - To determine which subjects should be included in an intensive program, we can compare the scores between the ideal states and other states.
 
 ## Findings
